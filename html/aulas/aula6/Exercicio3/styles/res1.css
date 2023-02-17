@@ -1,0 +1,55 @@
+*{
+    font-family: Arial;
+}
+
+body{
+    background-color: rgb(163, 163, 163);
+    padding: 5%;
+    margin: auto;
+    font-family: arial;
+    font-size: 2.5vw;
+}
+
+aside{
+    width: 40%;
+    height: auto;
+    background-color: lightyellow;
+    box-sizing: border-box;
+    padding: 5% 4% 7% 7%;
+    align-items: center;
+    text-align: left;
+    margin: auto;
+    box-shadow: 3px 3px rgb(124, 45, 45);
+}
+
+a{
+    display: block;
+}
+
+img{
+    width: 90%;
+    height: 90%;
+    display: block;
+}
+
+#back{
+    color: gray;
+}
+
+h1{
+    
+    color:rgb(124, 45, 45);
+    font-weight: bold;
+}
+
+#go{
+    color:rgb(124, 45, 45);
+    
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+p{
+    color:rgb(124, 45, 45);
+    
+}

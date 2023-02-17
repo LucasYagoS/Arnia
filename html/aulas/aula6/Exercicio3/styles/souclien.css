@@ -1,0 +1,60 @@
+*{
+    font-family: Arial;
+}
+
+body{
+    background-color: rgb(163, 163, 163);
+    padding: 5%;
+    margin: auto;
+    font-family: arial;
+}
+
+aside{
+    width: 40%;
+    height: auto;
+    background-color: lightyellow;
+    box-sizing: border-box;
+    padding: 5% 4% 7% 7%;
+    align-items: center;
+    text-align: left;
+    margin: auto;
+    box-shadow: 3px 3px rgb(124, 45, 45);
+}
+
+a{
+    display: block;
+}
+
+img{
+    width: 90%;
+    height: 90%;
+}
+
+
+form label{
+    display: block;
+
+}
+
+#back{
+    color: gray;
+}
+
+h1{
+    font-size: 28px;
+    color:rgb(124, 45, 45);
+}
+
+form > label{
+    margin-top: 20px;
+    color:rgb(124, 45, 45);
+}
+
+form > input{
+    margin-top: 4px;
+}
+
+#go{
+    color:rgb(124, 45, 45);
+    
+}

@@ -1,0 +1,58 @@
+*{
+    font-family: Arial;
+}
+
+h1{
+    font-size: 3.5vw;
+    display: inline;
+    color: rgb(124, 45, 45);
+}
+
+h2{
+    color: rgb(124, 45, 45);
+    font-size: 2vw;
+    text-decoration: underline;
+}
+
+.desc{
+    color: rgb(124, 45, 45);
+    font-style: italic;
+}
+
+.price{
+    color: rgb(124, 45, 45);
+    font-size: 1.5vw;
+}
+
+body{
+    background-color: rgb(163, 163, 163);
+    padding: 5%;
+    margin: auto;
+    font-family: arial;
+}
+
+aside{
+    width: 40%;
+    height: auto;
+    background-color: lightyellow;
+    box-sizing: border-box;
+    padding: 5% 4% 7% 7%;
+    align-items: center;
+    text-align: left;
+    margin: auto;
+    box-shadow: 3px 3px rgb(124, 45, 45);
+}
+
+img{
+    width: 20vw;
+    display: block;
+    padding-bottom: 5%;
+}
+
+a{
+    color: gray;
+}
+
+#logo{
+    width: 92%;
+}

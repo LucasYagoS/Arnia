@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+}
+
+
+#top{
+    background-color: #6950A1;
+    height: 301px;
+    position: relative;
+}
+
+#topimg{
+    position: absolute;
+    top: 32px;
+    left: 40px;
+}
+
+#present{
+    position: relative;
+}
+
+h2{
+    width: 785px;
+    height: 109px;
+    position: absolute;
+    top: 60px;
+    left: 40px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+}
+
+p{
+    position: absolute;
+    width: 860px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    left: 40px;
+    top: 210px;
+}
+
+ul{
+    position: absolute;
+    width: 860px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    left: 80px;
+    top: 305px;
+}
+
+
+
+#formhead{
+    width: 372px;
+    height: 173px;
+    position: absolute;
+    top: 150px;
+    left: 1001px;
+    border-radius: 15px;
+    background-color: #1A1033;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700px;
+    line-height: 30px;
+    padding: 25px;
+}
+
+#formbox{
+    width: 372px;
+    height: 608px;
+    position: absolute;
+    top: 150px;
+    left: 1001px;
+    border-radius: 15px;
+    border: 2px solid #6950A1;
+    box-sizing: border-box;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 200px;
+    left: 20px;
+    gap: 0.5rem;
+}
+
+form > input{
+    border-radius: 5px;
+    height: 32px;
+    width: 332px;
+}
+
+input[type="submit"]{
+    background-color: #6950A1;
+    border-radius: 20px;
+    height: 49px;
+    margin-top: 20px;
+    border-style: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+

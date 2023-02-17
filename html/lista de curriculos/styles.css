@@ -1,0 +1,32 @@
+
+#titulo1{
+    font-size: 32px;
+    color: green;
+}
+
+.lista1 a{
+    color: green;
+    font-size: 18x;
+}
+
+img{
+    width: 600;
+    height: auto;
+}
+
+#email{
+    
+    font-size: 32px;
+    line-height: 3cm;
+
+}
+
+.back{
+    color: gray;
+    line-height: 3cm;
+}
+
+.xp{
+    font-size: 24px;
+    line-height: 1cm;
+}

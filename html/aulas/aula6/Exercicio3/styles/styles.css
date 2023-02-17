@@ -1,0 +1,47 @@
+img{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+h1{
+    font-size: 3vw;
+    display: block;
+}
+
+body{
+    background-color: rgb(163, 163, 163);
+    color: rgb(163, 9, 9);
+    padding: 5%;
+    margin: auto;
+    font-family: arial;
+}
+
+aside{
+    width: 40%;
+    height: auto;
+    background-color: rgb(200, 200, 200);
+    box-sizing: content-box;
+    padding: 5% 4% 7% 7%;
+    align-items: center;
+    text-align: left;
+    margin: auto;
+    box-shadow: 3px 3px rgb(124, 45, 45);
+    
+
+}
+
+a{
+    color:rgb(163, 9, 9);
+
+    
+    margin-top: 10px;
+    font-size: 2vw;
+}
+
+.separador{
+    display: inline-block;
+    margin-left: 20px;
+}
+
