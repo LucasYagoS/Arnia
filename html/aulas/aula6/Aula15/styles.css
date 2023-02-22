@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 5rem;
+    align-items: center;
+  
+}
+
+header > .menu { 
+    display: flex; 
+    align-items: center;
+    
+    
+}
+
+header > .menu > ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+header > .menu > ul > li{
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: 900;
+    
+}
+
+header > .menu > img{ 
+    margin-right: 2rem;
+}
+
+header > .menu > ul > li > a{
+    text-decoration: none;
+    color: black;
+}
+
+header > div > a{
+    text-decoration: none;
+}
+
+header > div > button > a{ 
+    text-decoration: none;
+}
+
+header > #login > a > button{
+    margin-left: 1rem;
+    width: 9.25rem;
+    height: 2.5rem;
+    border-radius: 8px;
+    border-style: none;
+    background-color: #3CC68A;
+   
+}
+
+header > #login > a {
+    margin-left: 0.4rem;
+    font-weight: 900;
+    color: #000;
+    
+}
+
+header > #login > a > button{
+    font-size: 1rem;
+    color: #fff;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.start{
+    background-color: #F9FBFD;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    box-sizing: border-box;
+}
+
+.start > img{
+    width: 46rem;
+    height: 34rem;
+    margin-right: 7%;
+    margin-top: 5%;
+}
+
+.start > div > h1{
+    font-size: 3.4rem;
+    font-weight: 400;
+    line-height: 5rem;
+    
+}
+.start > div{
+    padding: 5% 5% 5% 8%;
+}
+
+.start > div > p{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 2.6rem;
+    padding: 2rem 4rem 2rem 0rem;
+    text-align: start;
+}
+
+.start > div > form > input{
+    width: 20rem;
+    height: 3.75rem;
+    border-style: none;
+    padding-left: 1rem;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.start > div > form > a > button{
+    width: 9rem;
+    height: 3.75rem;
+    border-style: none;
+    border-radius: 8px;
+    background-color: #3CC68A;
+    color: #fff;
+    font-size: 1rem;
+    line-height: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
