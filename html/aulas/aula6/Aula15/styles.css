@@ -77,12 +77,15 @@ header > #login > a > button{
     cursor: pointer;
 }
 
+/* section 1 */
+
 .start{
     background-color: #F9FBFD;
     width: 100%;
     height: fit-content;
     display: flex;
     box-sizing: border-box;
+    
 }
 
 .start > img{
